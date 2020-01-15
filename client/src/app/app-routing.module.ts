@@ -17,6 +17,7 @@ const routes: Routes = [
   {
     path: 'security',
     loadChildren: './modules/security/security.module#SecurityModule'
+    /*prueba*/
   }
   ,
   {
