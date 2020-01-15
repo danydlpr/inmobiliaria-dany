@@ -7,7 +7,10 @@ import { HeroComponent } from './public/masterPage/hero/hero.component';
 import { NavbarComponent } from './public/masterPage/navbar/navbar.component';
 import { HomeComponent } from './public/home/home.component';
 import { PageNotFoundComponent } from './public/page-not-found/page-not-found.component';
-/*hola */
+/*hola 
+no se
+
+*/
 @NgModule({
   declarations: [
     AppComponent,
